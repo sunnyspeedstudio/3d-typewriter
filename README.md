@@ -30,3 +30,4 @@ hf2gcode: https://github.com/Andy1978/hf2gcode
 
 5. Run `python3 3d-typewriter.py`
     * **The 3D printer HAS to be connected in OctoPrint first**
+    * Press ESC to quit
