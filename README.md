@@ -1,6 +1,8 @@
 # 3D Typewriter
 Making a typewriter with an old 3D printer!
 
+![the typewriter](/images/typewriter.jpg)
+
 ## Special Thanks
 OctoPrint: https://github.com/foosel/OctoPrint
 
@@ -26,5 +28,5 @@ hf2gcode: https://github.com/Andy1978/hf2gcode
 ![Demo paper](/images/demo_paper.jpg)
 ![Screenshot of the config.py](/images/screenshot_config.png)
 
-5. Run `python3 3d_typewriter.py`
+5. Run `python3 3d-typewriter.py`
     * **The 3D printer HAS to be connected in OctoPrint first**
