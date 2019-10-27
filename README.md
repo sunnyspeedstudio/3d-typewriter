@@ -20,6 +20,8 @@ hf2gcode: https://github.com/Andy1978/hf2gcode
 3. Convert 3D printer to writing machine, video:
 
 4. Download this project, and **edit config.py**
+    * HOME ALL
+    * Move X and Y to the start point (top left) of the writing paper
 
 5. Run `python3 3d_typewriter.py`
     * **The 3D printer HAS to be connected in OctoPrint first**
